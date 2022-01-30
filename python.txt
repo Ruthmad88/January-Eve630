@@ -1,0 +1,55 @@
+1. Variable is something that stores values, i.e, like a memory.
+2. Data type is a data that indicates th information to the system.
+3. Function is something that performs some specific tasks.
+4. An inbuilt fucntion is somthing that is already there in the programme.
+5. 
+6. Data structure is a variety or a format for organizing and storing data.
+7. Modules are simply files with the “. py” extension containing Python code that can be imported inside another Python Program.
+8. Variables with values that cannot be changed are just contants.
+9. An identifier idetifies a function or a variable in a programme.
+10. To carry out mathematical fucntions or logical computations, operators are used as symbols.
+
+
+JAN 24TH Task:
+
+1. mark1 = int(input("enter mark 1"))
+mark2 = int(input("enter mark 2"))
+mark3 = int(input("enter mark 3"))
+
+if mark1>=33 and mark2>=33 and markfd 3>=33:
+    print("you win")
+
+else:
+    print("you fail")
+
+2. a = int(input("number of classes held"))
+b = int(input("number of classes attended"))
+medical = input("enter medical details")
+c = b/a*100
+if c>=75 or medical=="yes":
+    print("allowed to enter exam room")
+else:
+    print("not allowed to enter exam room")
+
+3. marks=int(input("enter marks"))
+if marks>=35:
+    print("pass")
+
+else:
+    print("fail")
+
+To simplify the differnce the interpreter translkates just one statement of a program, while a compiler translates the entire program.
+
+1. #int data type is nothing but integers, i.e, positive or negative whole numbers, zero. Intergers can be binary or even hexadecial values.
+
+2. #float data type is nothing but intergers with a decimal number, for example, 99.5, 20.8, etc.
+3. #boolean data type represents "True" or "False" values.
+
+Jan 25th Task:
+
+1. Comparison Operator: that compares two values and returns to the the boolean result, i.e, true or false. For example, >,<,==,etc.
+2. Assignment Operator: is nothing but assigning a simple values to variables, like mark1 = 25,etc.
+3. Logical Operator: they are simply based n boolean values, like AND, OR and NOT.
+
+
+
