@@ -1,0 +1,33 @@
+JAN 31st TASK
+
+=======================================
+1. Perimeter of circle with radius = 10.2 
+pi = 3.14
+radius = 10.2
+perimeter = float(2*pi*radius)
+print("perimeter of circle", perimeter)
+
+2. Area of circle 
+pi = 3.14
+radius = float(input("Please enter: "))
+area = float(pi*radius*radius)
+print("area of circle", area)
+
+3. Perimter of circle with radius:
+pi = 3.14
+radius = float(input(" Enter Value: "))
+perimeter = float(2*pi*radius)
+print("perimeter of circle", perimeter)
+
+4. Radius and height:
+radius = float(input("Enter radius Value:"))
+height = float(input("Enter height Value:"))
+
+5. Area of Cone:
+pi = 3.14
+r = float(input("Enter radius: "))
+h = float(input("Enter height: "))
+
+area = (0.33*pi*r*r*h)
+
+print("Area of cone", area)
