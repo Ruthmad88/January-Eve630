@@ -1,0 +1,55 @@
+Feb 4, 2022
++=================
+
+Information_Technology
+
+1. [-2:0:-1]---Empty
+
+2. [5:-5:5]---mnh
+
+3. [-5:5:-5]---Empty
+
+4. [5:-5:-5]---ott
+
+5. [3:9:-1]---itamro
+
+6. [9:-10:-2]---_o
+
+7. [2:-4:-4]---lcnaf
+
+8. [-4:2:-2]---lncTniar
+
+9. [::-3]---ylhToaoI
+
+10. [::-2]---yoohe_otmon
+
+11. [2:-2:2]---frainTcnl
+
+12. [3:-3:3]---oaoThl
+
+13. [::2]---IfrainTcnlg
+
+"computer science"
+
+print(a[-10:10:3])----es
+print(a[-5:-1:1])-----ienc
+print(a[-8:-2:10])
+print(a[5::3])----t ic
+print(a[:5:2])---cmu
+print(a[10:14:2])---ce
+print(a[-10:-3:3])---ese
+print(a[5:12:5])---tc
+print(a[3:-3:3])---pese
+print(a[-5:-3:20])---i
+
+"Google_chrome_browser"
+
+print(a[-5:-1:1])---owse
+print(a[-8:-2:10])---_
+print(a[5::3])---ehmbwr
+print(a[:5:2])---Gol
+print(a[10:14:2])---oe
+print(a[-10:-3:3])---mbw
+print(a[5:12:5])---eo
+print(a[3:-3:3])---g_rer
+print(a[-5:-3:20])---o
